@@ -3,7 +3,7 @@ db:
  ports:
    - "3306:3306"
  environment:
-   MYSQL_ROOT_PASSWORD: mypassword
+   MYSQL_ROOT_PASSWORD: change-password
 web:
  build: .
  command: puma
