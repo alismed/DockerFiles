@@ -1,0 +1,19 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: change-database-name
+  pool: 5
+  username: root
+  password: change-password
+  host: db
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: change-database-name
+  pool: 5
+  username: root
+  password: change-password
+  host: db
