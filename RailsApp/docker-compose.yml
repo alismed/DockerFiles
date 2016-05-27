@@ -1,0 +1,15 @@
+db:
+ image: mysql:latest
+ ports:
+   - "3306:3306"
+ environment:
+   MYSQL_ROOT_PASSWORD: mypass
+web:
+ build: .
+ command: puma
+ ports:
+   - "9292:9292"
+ links:
+   - db
+ volumes:
+   - .:/change-the-app-name
