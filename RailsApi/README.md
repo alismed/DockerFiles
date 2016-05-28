@@ -19,6 +19,8 @@
 
   **Script**
 
+  - `$ mkdir <project-name> && cd <project-name>`
+  - Copy all files to the new folder.
   - `$ docker-compose build`: To build the image, it may take a few minutes. 
   - `$ docker-compose run web rails-api new .`: To create a new Rails aplication.
    - Type 'y' to overwrite the Gemfile.
