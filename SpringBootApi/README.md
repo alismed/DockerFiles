@@ -2,13 +2,6 @@
 
   Use this files to build and run a container for a Spring Boot Api on Eclipse
 
-### MySQL
-  It is using the [MySQL container](https://hub.docker.com/_/mysql/):
-
-  ```
-  docker pull mysql
-  ```
-
 ### Setup
   Change the 'docker-compose' to edit the information about MySQL.
 
