@@ -15,6 +15,7 @@ It is possible to access the database using the command line:
 ```
 psql -h localhost -p 54320 -U `<User>` -d mydb
 ```
+See how to install [Postgres client only](https://github.com/alismed/ubuntu-after-install).
 
 Also is possible to use pgAdmin:
   - Open `http://localhost:16543`
