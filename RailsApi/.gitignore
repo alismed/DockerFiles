@@ -11,3 +11,10 @@
 /log/*
 !/log/.keep
 /tmp
+/config
+/app
+/bin
+Rakefile
+.ruby-version
+package.json
+config.ru
