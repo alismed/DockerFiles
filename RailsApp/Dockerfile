@@ -1,4 +1,4 @@
-FROM ruby:2.5.8
+FROM ruby:3.1.0
 
 # aplication name
 ENV APP_NAME "change-the-app-name"
