@@ -9,3 +9,4 @@ Examples of files to build and run Docker containers.
 - [Spring Boot Api](SpringBootApi)
 - [Ruby and Redis](Ruby-Redis)
 - [PostgreSQL](PostgreSQL/README.md)
+- [DynanoDB Spring Boot Api](DynanoDbSpringBootApi/README.md)
