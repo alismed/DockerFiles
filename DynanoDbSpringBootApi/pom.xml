@@ -10,7 +10,7 @@
 	<groupId>br.com.itau</groupId>
 	<artifactId>DynanoDbSpringBootApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>routedb</name>
+	<name>DynanoDbSpringBootApi</name>
 	<description>DynamoDB CRUD</description>
 	<properties>
 		<java.version>11</java.version>

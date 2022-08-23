@@ -17,6 +17,6 @@ public class Departament {
     private String departmentName;
 
     @DynamoDBAttribute
-    private String departamentCode;
+    private String departmentCode;
 
 }
