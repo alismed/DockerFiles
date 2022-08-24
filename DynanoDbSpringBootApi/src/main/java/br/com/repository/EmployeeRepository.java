@@ -1,4 +1,4 @@
-package br.com.itau.repository;
+package br.com.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
@@ -8,7 +8,7 @@ import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBSaveExpression;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
 import com.amazonaws.services.dynamodbv2.model.ExpectedAttributeValue;
 
-import br.com.itau.entity.Employee;
+import br.com.entity.Employee;
 
 @Repository
 public class EmployeeRepository {

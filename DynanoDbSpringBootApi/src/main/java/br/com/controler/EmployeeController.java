@@ -1,4 +1,4 @@
-package br.com.itau.controler;
+package br.com.controler;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.itau.entity.Employee;
-import br.com.itau.repository.EmployeeRepository;
+import br.com.entity.Employee;
+import br.com.repository.EmployeeRepository;
 
 @RestController
 public class EmployeeController {
