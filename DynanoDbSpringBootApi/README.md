@@ -10,8 +10,8 @@
 
   **AWS**
   - Create `Group` with a proper `Policy` to access Dynamodb
-  - Create a 'User' associated with the above group
-  - Create a dynamodb table named employee
+  - Create a `User` associated with the above group
+  - Create a dynamodb table named employee and employeeId as Key
 
   **Script**
   - Change the credencials and information about Region in `DynamoDbConfiguration.java`
