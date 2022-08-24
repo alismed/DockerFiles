@@ -1,4 +1,4 @@
-package br.com.itau.routedb;
+package br.com.routedb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
