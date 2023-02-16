@@ -3,7 +3,7 @@ package com.itau.agro.controller;
 import java.util.List;
 import java.util.Optional;
 
-import com.itau.agro.exceptions.DebtNotFoundException;
+//import com.itau.agro.exceptions.DebtNotFoundException;
 import com.itau.agro.model.Debt;
 import com.itau.agro.service.DebtService;
 
